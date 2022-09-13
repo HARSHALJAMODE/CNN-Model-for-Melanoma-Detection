@@ -6,8 +6,8 @@
 ## Table of Contents
 * Problem statement
 * Creation of a model
-* Conclusions
 * Technologies Used
+* Conclusions
 * Acknowledgements
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -20,18 +20,10 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Creation of a model
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Create the model-1: Basic Model
+- Create the model-2: Manual augmentation
+- Create the model-3: Automatic augmentation
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -43,13 +35,24 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 - Augmentor
 - Convolutional Neural Network
 
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+## Conclusions
+- Data augmentation helps to reduce the overfitting.
+
+- After Data augmentation the Accuracy on both training and validation data have been increased as shown below.
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/102409716/189949452-1be6b245-9834-4382-b2b4-c4fbf0becf00.png">
+
+
+- The models giving Train accuracy of 0.8579 and Validation accuracy of 0.8025
+
+
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+
+- This project was inspired by Family and Friends !!!
 
 
 ## Contact
