@@ -3,7 +3,7 @@
 > Building a multiclass classification model using a custom convolutional neural network in TensorFlow.
 
 
-## Table of Contents
+## Table of Contents   
 * Problem statement
 * Creation of a model
 * Technologies Used
